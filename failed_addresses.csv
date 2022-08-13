@@ -1,0 +1,299 @@
+stnd_type,stnd_logr,stnd_numero,logradouro,numero,codigo_do_municipio_no_bcbase,code_muni,stnd_addr_index
+,,,Samoel Fragozo Coimbra,460,202142,3556206,1
+Alameda,Basiléia,160,Basileia,160,202142,3556206,5
+,,,Jk Salao Luiz,Sn,204515,1100023,9
+,,,Setima Rua,1325,204515,1100023,10
+,,,Setima Rua,3476,204515,1100023,14
+,,,Benewalte,1135,205044,4209102,16
+Rua,Arco Iris,806,Arco Iris,000806,205044,4209102,29
+Rua,São Jorge,56,Sao Jorge,56,205044,4209102,30
+,,,Adelia Q 3 L 5,,201462,5201405,41
+Rua,13 E,Sn,13 E,Sn,201462,5201405,44
+,,,H54,Sn,201462,5201405,45
+,,,Anfibolio,,201462,5201405,49
+,,,Dos Alamos,,201462,5201405,52
+,,,X12,,201462,5201405,55
+,,,V-008,,201462,5201405,59
+,,,Trav Pires,24,201721,2602902,61
+,,,Engenho Arariba De Baixa,,201721,2602902,63
+Rua,67,26,67,26,201721,2602902,64
+Rua,José Vicente de Lima,116,Jose Vicente De Lima,116,201721,2602902,65
+Rua,Luiz Gomes da Silva,67,Luiz Gomes Da Silva,67,201721,2602902,67
+Rua,da Mocidade,7,Mocidade,7,201721,2602902,69
+Rua,Presidente Vargas,804,Presidente Vargas,804,201721,2602902,70
+Rua,Biguá,85,Bigua,85,203954,5002704,75
+Rua,Dois de Outubro,62,2 De Outubro,62,203954,5002704,80
+Rua,Estatícia,645,Estaticia,645,203954,5002704,103
+Rua,Iraides Paulino da Silva,425,Iraides Paulino Da Silva,425,203954,5002704,105
+Rua,Doutor Fausto Dias Ferraz,22,Dr Fausto Dias De Farraz,22,202585,3505708,116
+Alameda,Jagape,122,Jagape,122,202585,3505708,119
+,,,Acenio Colaco,676,202982,2611606,125
+,,,2 Trv Oscar Brandao,56,202982,2611606,137
+,,,Vitoriano Palhares Ed Ipojuca Colonial,218,202982,2611606,138
+Rua,Vereador Francisco de Paula Santana - Chico da Manola,3 A,Vereador Francisco De Paula Santana Ch,3 A,202982,2611606,141
+,,,Joao Crisostimo Da Silva,32,202982,2611606,151
+,,,Dos Pascadores,75,202982,2611606,152
+,,,Vivisopolis,184,202982,2611606,156
+,,,Lexuana N Roda De Fogo,000155,202982,2611606,178
+,,,2 Dos Bancarios,42,202982,2611606,179
+,,,Tabeliao Roma,95,202982,2611606,181
+,,,27 De Abril,46,202982,2611606,184
+Rua,Maruim,912,Maruim,912,202982,2611606,196
+,,,2 Trav Da Rua Guaraci,3,202982,2611606,200
+Rua,Oto Alencar,237,Oto Alencar,237,204681,2408102,201
+Rua,Cônego Luiz Wanderley,181,Conego Luiz Wanderley,181,204681,2408102,210
+Rua,Darcy Vargas,8,Darcy Vargas,8,204681,2408102,214
+Rua,Tuiuti,270,Tuiuti,270,204681,2408102,218
+Avenida,Bumba Meu Boi,218,Bumba Meu Boi,218,204681,2408102,220
+,,,Amintas Barro No 3675 Apto 15,03675,204681,2408102,223
+,,,Dos Portugueses Nossa Senhora D,0247,204681,2408102,224
+Travessa,Lino Teixeira,3,Lino Teixeira,3,204681,2408102,226
+,,,Pte Bandeira Vl Sao Francisco,604,204681,2408102,232
+Rua,Amadeu Rodrigues Campos Fraga,111,Amadeu Rodrigues Campos Fraga,111,199819,3302858,236
+Rua,Paulo Furtado Velasco,45,Paulo Furtado Velasco,45,201525,4119905,244
+,,,Icarai 20,,205153,3304557,266
+,,,Cam Boiadeiro,6,205153,3304557,277
+,,,Sfgdsfngdnvd,333,205153,3304557,284
+,,,Srv Sem Nome,12,205153,3304557,287
+Rua,Amparo,37,Amparo,37,205153,3304557,311
+,,,Rio De Janeiro (Comunid 48),45,205153,3304557,316
+,,,Nova Macilio Dias,227,205153,3304557,324
+Rua,Circular,23,Circular,23,205153,3304557,336
+,,,Suburbana,1501,205153,3304557,337
+,,,Etr Do Viera,116,205153,3304557,338
+Rua,Servidao Leste,14,Servidao Leste,14,205153,3304557,340
+,,,Quinze (Bc Constanca),24,205153,3304557,346
+Rua,Gondola,120,Gandola,120,205153,3304557,348
+Rua,Encanamento,241,Encanamento,241,205153,3304557,352
+,,,Niton De Oliveira,50,205153,3304557,353
+Travessa,Jarmute,13,Jarmute,13,205153,3304557,361
+Rua,Laércio Rosa,10,Laercio Rosa,10,205153,3304557,373
+Rua,Vítor Meireles,533,Victor Meireles,533,205153,3304557,396
+,,,Marinho Rego B Travessa 11 Casa 4,,205153,3304557,403
+,,,Cesario De Melo Bloco 07 Apt 204,11705,205153,3304557,406
+Estrada,da Boiuna,250,Da Boiuna,250,205153,3304557,410
+,,,Vicente Caneco Travessa Uniao,6,205153,3304557,412
+,,,Ibua,517,205153,3304557,419
+,,,Do Cotorno,26,205153,3304557,440
+,,,Sao Clemente Bl 01 Ap 504,272,205153,3304557,454
+Rua,Algodão,270,Algodao,270,205153,3304557,458
+,,,Rua Luiz Goulart,,205153,3304557,462
+,,,Cel Tamarindo Cx Postal 28019,1894,205153,3304557,463
+Rua,Froes De Abreu,270 A,Froes De Abreu,270 A,205153,3304557,471
+,,,Pirilampo - Curicica,249,205153,3304557,475
+,,,Do Ze Pelim,174,205153,3304557,478
+,,,And 87,1,205153,3304557,480
+Caminho,da Capineira,18,Etr Da Capineira,18,205153,3304557,492
+Estrada,Dos Sete Riachos,1681,Etr Dos Sete Riachos,1681,205153,3304557,495
+,,,Tejucigalpa,156,205153,3304557,497
+,,,Etr Do Fonseca,,205153,3304557,499
+Rua,Elías Lobo,281,Elias Lobo,281,205153,3304557,506
+Rua,Pistacia,36,Pistacia,36,205153,3304557,507
+Rua,Ana Clara Cruz,362,Ana Clara Cruz,362,205153,3304557,512
+Estrada,do Gericino,,Gericino,,205153,3304557,513
+Rua,César do Rego Monteiro Filho,177,Cesar Do Rego Monteiro Filho,177,205153,3304557,518
+Rua,Da Grota,29,Da Grota,29,205153,3304557,524
+,,,K Cj Batam,2,205153,3304557,529
+Rua,Iguape,35,Iguape,35,205153,3304557,532
+,,,Bico De Lacre Cj Joao Saldanha,403,205153,3304557,536
+,,,Sta Maria Beco Verao,S N,205153,3304557,539
+,,,Antares Conj Ceab,,205153,3304557,543
+,,,Urumajo (Arnaldo Eugenio),Sn,205153,3304557,544
+Rua,Diva,39,Diva,39,205153,3304557,555
+Estrada,Camboatá,3594,Estr Do Camboata,3594,205153,3304557,558
+,,,Bc S Joao,2,205153,3304557,562
+,,,Joao 23,1,205153,3304557,565
+,,,Dos Bandeirantes Bl 02 Apt 30,8041,205153,3304557,566
+,,,Montividel,1297,205153,3304557,569
+Rua,Luís Guimarães,87,Luis Guimaraes,87,205153,3304557,578
+Rua,Lindolfo Mendes Barbosa,S/ Num,Lindolfo Mendes Barbosa,S/ Num,205153,3304557,583
+Rua,Milagres,19,Milagres,19,205153,3304557,586
+Rua,Fábio Luz,275,Fabio Luz,275,205153,3304557,588
+Avenida,Braz de Pina,1996,Braz De Pina,1996,205153,3304557,596
+Estrada,Cabungui,36,Cabungui,36,205153,3304557,605
+Rua,Arujá,61,Aruja,61,205153,3304557,607
+,,,27 (Cj Cesarao),353,205153,3304557,610
+,,,Rua Heitor Cervan,20,205153,3304557,613
+,,,Zenzibar,1131,205153,3304557,614
+Avenida,Braz de Pina,1751,Bras De Pina,1751,205153,3304557,619
+Estrada,Do Curumau,556,Do Curumau,556,205153,3304557,623
+,,,Da Gavea - De 0 Ate Fim,1,205153,3304557,624
+Estrada,Gabinal,352,Gabinal,352,205153,3304557,628
+Rua,Eurides Do Nascimento,56,Eurides Do Nascimento,56,205153,3304557,637
+,,,Humaita Casa 153,153,205153,3304557,664
+,,,Dq De Caxias,3,205153,3304557,666
+Estrada,Do Itarare,1051,Do Itarare,1051,205153,3304557,670
+,,,Washington Luis,445,203081,3549805,679
+Rua,Paulo Soares,,Paulo Soares,,200689,3304144,695
+Rua,Conde Aljezur,119,Conde De Aljezur,119,200689,3304144,697
+,,,Alvaro Soares N 5 Qd A,5,200689,3304144,698
+Rua,Caico,518,Caico,518,200689,3304144,699
+,,,Garcia Rezende,238,200689,3304144,700
+Avenida,Tingua,1124,Tingua,1124,200689,3304144,701
+Avenida,Padre José de Anchieta,62,Padre Jose De Anchieta,62,200689,3304144,703
+,,,Carariaca,,201739,1506807,704
+Alameda,Aquarios,18,Aquarios,18,201739,1506807,707
+Rua,Jáder Barbalho,201,Jader Barbalho,201,201739,1506807,710
+,,,Etr  4,02,201739,1506807,716
+,,,Antonio Febronio,,201739,1506807,717
+,,,Comunidade Poco Branco Do Ituqui,Sn,201739,1506807,724
+,,,Alagoinhas Iv Alameda 30,106,202447,2900702,727
+,,,Joao Martins,000000,202126,3163300,733
+,,,Cel Amaro,501,203923,3302403,737
+,,,1 Casa 2 Vila Linguado,,203923,3302403,741
+Avenida,Tancredo de Almeida Neves,7891,Tancredo De Almeida Neves,7891,203923,3302403,743
+,,,Alvaro Pinheiro,302,203923,3302403,745
+,,,Caraiba,52,205188,3167202,754
+Rua,Álvaro Ferreira Fraga,394,Alvaro Ferreira Fraga,394,205188,3167202,757
+Rua,Guiomar Fernandes de Paula,97a,Guiomar Fernandes De Paula,97a,205188,3167202,758
+Rua,Arábia,1600,Arabia,1600,202825,3557105,768
+Rua,Régia Barreto,26 E,Regia Barreto,26 E,205268,2927408,772
+Rua,Belamita,50,Bela Mita,50,205268,2927408,773
+,,,2 Trv Sao Domingos,132,205268,2927408,776
+Estrada,Velha do Cabrito,22,Velha Do Cabrito,22,205268,2927408,780
+,,,Guadalajara Ed Biatriz,422,205268,2927408,782
+,,,Paulo Vi Edf Silvana,736,205268,2927408,792
+Travessa,dos Emídio Santos,9,Dos Emidio Santos,9,205268,2927408,799
+,,,Machado Neto Ed Tatti Moreno,281,205268,2927408,802
+Rua,Independência,26,Independencia,26,205268,2927408,807
+Rua,Cirilo Goncalves De Oliveira,72,Cirilo Goncalves De Oliveira,72,205268,2927408,809
+,,,Dos Lagos,202,205268,2927408,813
+,,,Ajaguarip Um,27,205268,2927408,814
+1ª Travessa,Waldemar Falcão do Horto,30,Waldemar Falcao Do Horto,30,205268,2927408,816
+,,,Lagoa Da Paixao Caminho 04,,205268,2927408,817
+,,,15 De Maio Tv Xingu,42,205268,2927408,821
+,,,Piraja,24,205268,2927408,828
+Rua,Antonino Casaes,72f,Antonino Casaes,72f,205268,2927408,829
+,,,Con Petromar,766,205268,2927408,837
+,,,Da Independencia Pca Joselia 02,35,205268,2927408,841
+Rua,Cândido Alves,6,Candido Alves,6,205268,2927408,842
+,,,D Bl 01 Apt 101 Setor J,Sn,205268,2927408,844
+Rua,Paulo Gonçalves,334,Paulo Goncalves,334,205268,2927408,846
+Rua,Doutor Deraldo Dias de Morais,46,Deraldo Dias De Moraes,46,205268,2927408,847
+Rua,José Teixeira,,Jose Teixeira,,205268,2927408,848
+,,,G Rua O,,205268,2927408,850
+,,,S Crsitovao,4,205268,2927408,852
+Rua,Belamita,163,Belamita,163,205268,2927408,853
+,,,Assis Rua Ibitupa,0,205268,2927408,854
+,,,Alha De Piraja,9,205268,2927408,859
+Rua,Anizete Alves,30,Anizete Alves,30,205268,2927408,860
+,,,Rua Do Cacaueiro,3,205268,2927408,865
+,,,Av Hercules Santos,6,205268,2927408,869
+,,,Araial De Baixo,21,205268,2927408,870
+,,,A Cam 10 Casa 01,S/N,205268,2927408,871
+Rua,Xisto Bahia,20,Xisto Bahia,20,205268,2927408,874
+Rua,José Lessa Ribeiro,8,Jose Lessa Ribeiro,8,205268,2927408,879
+,,,07 Setor 02 Cajazeiras X,19 A,205268,2927408,880
+,,,Jose De Alencar Boa Vista,74 E,205268,2927408,881
+,,,Grande Iii,3,205268,2927408,883
+Avenida,Mamute,35e,Vila Mamute,35e,205268,2927408,887
+Avenida,dos Andrades,55,Dos Andrades,55,205268,2927408,900
+Vila,Cruz da Redenção,26,Cruz Da Redencao,26,205268,2927408,901
+,,,Estr Vel Pitanga Km 6,,205268,2927408,902
+,,,Bispo Baixa Fe Em Deus,23,205268,2927408,904
+Rua,Quarenta e Três,758,43,758,202318,3134202,908
+,,,36 Com 19 E 21,1592,202318,3134202,911
+Rua,Onze,217,11,217,203119,5204300,913
+Rua,Oito,415,08,415,203119,5204300,914
+,,,Castelo Branco,357,204744,4105003,915
+Linha,Caravagio,,Linha Caravagio,,204744,4105003,916
+Beco,Arthur,41,Arthur,41,205086,4314902,925
+,,,Oito Cefer Dois,133,205086,4314902,928
+Rua,Men De Sa,294,Men De Sa,294,205086,4314902,932
+Rua,Ítalo Brutto,455,Italo Brutto,455,205086,4314902,937
+,,,Banco Docomercio,115,205086,4314902,940
+,,,Via 14 Ipe 1,3,205086,4314902,959
+Estrada,Antonio Jose Santana,1026,Antonio Jose Santana,1026,205086,4314902,961
+,,,Oito Lot Serra Verde,Nove,205086,4314902,964
+,,,Q 34 Vl Farrapos,3,205086,4314902,966
+Rua,Antonio Alberto Palamar Moreira,219,Antonio Alberto Palamar Moreira (Lot,219,205086,4314902,973
+Rua,Izidoro Lima,101,Izidoro Lima,101,205086,4314902,974
+,,,Jose Eboli,150,205086,4314902,976
+,,,Tres Est Otaviano J Pinto,371,205086,4314902,1000
+Rua,Vale das Pedras,7,Vale Das Pedras,7,202975,3106200,1025
+Rua,Trinta E Oito,241,Trinta E Oito,241,202975,3106200,1035
+Rua,Cura D Ars,460,Cura D Ars,460,202975,3106200,1037
+,,,P Seis,19,202975,3106200,1039
+Rua,Málaga,25,Malaga,25,202975,3106200,1053
+,,,Prof Roberto Pacheco,128,202975,3106200,1073
+,,,Mirubim,,202975,3106200,1074
+,,,80,420,202975,3106200,1084
+,,,Praca Associacao Atletica Popular,61,202975,3106200,1085
+Rua,Canoas,645,Canoas,645,202975,3106200,1101
+Rua,Ageo Pio,7,Aggeu Pio,7,202975,3106200,1107
+Rua,José Teubner Ferreira,32,Jose Teubner Ferreira,32,202975,3106200,1113
+,,,Valeria,211,202975,3106200,1134
+Rua,Egípcia,5,Egipcia,5,202975,3106200,1135
+Rua,do Leblon,194,Do Leblon,194,202975,3106200,1139
+,,,De Ala,253,202975,3106200,1145
+,,,Al Ipe Branco,279,202975,3106200,1147
+,,,Antonio,3,204716,3550308,1160
+,,,De Jerusalem,00046,204716,3550308,1188
+,,,Nossa Do O,185,204716,3550308,1189
+,,,Das Quitaras,08,204716,3550308,1193
+Rua,Napéias,30,Napeias,30,204716,3550308,1195
+,,,Jose Walter Seng,283,204716,3550308,1216
+,,,Est Vila Ema,5665,204716,3550308,1225
+,,,Coraca,84,204716,3550308,1229
+,,,Cacu,51,204716,3550308,1268
+,,,Vila Ema De 3702 Ate Fim,4342,204716,3550308,1273
+,,,Ipalmeri Jd Nordeste,420,204716,3550308,1292
+Praça,Marcos Santos Rodrigues da Silva,sn,Marcos Santos Rodrigues Da Silva,Sn,204716,3550308,1311
+,,,Alverino Alves Reis,122,204716,3550308,1322
+Rua,Nélio Fachada de Paiva,43,Nelio Fachada De Paiva,43,204716,3550308,1328
+,,,Sambora,000022,204716,3550308,1344
+Rua,Sabado D Angelo,2480,Sabado D Angelo,2480,204716,3550308,1345
+Rua,Tio Antonio,36,Tio Antonio,36,204716,3550308,1353
+,,,Cel Antonio Inujosa,83,204716,3550308,1370
+Estrada,Itaquera Guaianazes,2415,Itaquera Guaianazes,2415,204716,3550308,1373
+Rua,Sosuke Shigekiyo,69,Susuke Skigekyio,69,204716,3550308,1378
+,,,Dos Testeis,002759,204716,3550308,1419
+,,,Do Caieiro,17,204716,3550308,1429
+,,,Parelheiros Km 37,26,204716,3550308,1430
+,,,Sao Lazaro De Jesus,172,204716,3550308,1442
+Rua,Ione Pinelli,33,Ione Pineli,33,204716,3550308,1461
+,,,Haddock Lobo Edificio Leiria,964,204716,3550308,1474
+Rua,Jose Gervasio De Souza,274,Jose Gervasio De Souza,274,204716,3550308,1475
+Rua,Darci Pereira,8,Darci Pereira,8,204716,3550308,1484
+,,,Das Rosas Caixa Postal 664,000002,204716,3550308,1487
+Rua,Serafim Vieira da Silva Filho,4,Serafim Vieira Da Silva Filho,4,204716,3550308,1511
+,,,Etr Do Clube De Campo,3105,204716,3550308,1525
+Rua,Pongaí,184,Pongai,184,204716,3550308,1563
+Rua,Olho D Agua Do Borges,,Olho D Agua Do Borges,,204716,3550308,1581
+Rua,Missurini,3,Missurini,3,204716,3550308,1594
+,,,Sant Inez,3205,204716,3550308,1598
+,,,Marina Natanael,31,204716,3550308,1624
+,,,Borgonia,500,204716,3550308,1661
+Rua,Aviadora Anésia Pinheiro Machado,291,Aviadora Anesia Pinheiro Machado,291,204716,3550308,1677
+,,,Dro Almeida Sales,78,204716,3550308,1716
+Rua,Isaac Benserade,14,Issac De Benseraide,14,204716,3550308,1720
+Avenida,Ireré,750,Irere,750,204716,3550308,1730
+,,,Sicante,11,204716,3550308,1758
+,,,Tres Vila Iolanda Ii,115,204716,3550308,1769
+Rua,Jose Sa De Arruda,1,Jose Sa De Arruda,1,204716,3550308,1771
+,,,Luigio Caruso,03,204716,3550308,1786
+Rua,Cantareira,651,Cantareira,651,204716,3550308,1789
+Avenida,Sezefredo Fagundes,2828,Sezefredo Fagundes,2828,204716,3550308,1792
+,,,Vigilio Gomes V Pedrosso,08,204716,3550308,1805
+,,,Da Divisa 01,4,204716,3550308,1815
+Rua,Raulino Galdino da Silva,1232,Raulino Galdino Da Silva,1232,204716,3550308,1834
+Avenida,Caboré,10,Cabore,10,204716,3550308,1840
+,,,Anastasio,43,204716,3550308,1846
+Avenida,Nacoes Unidas,2449,Nacoes Unidas,2449,204716,3550308,1867
+Rua,Manipuçá,95,Manipuca,95,204716,3550308,1879
+Rua,Yayá,235,Yaya,235,203349,3513801,1922
+,,,Uniao,3,203349,3513801,1934
+Passagem,Diadema,194,Passagem Diadema,194,203349,3513801,1938
+Rua,Síria,74,Siria,74,203349,3513801,1943
+Rua,Vinte e Quatro,113,Vinte E Quatro,113,202555,3170107,1950
+,,,Vereador Manoel Justino Duarte,30,202091,2606705,1958
+,,,Joao Antunes Nunes,S/N,202772,3502903,1961
+Rua,06,1250,06,1250,203809,3543907,1964
+Rua,5 JV,57,5 Jv,57,203809,3543907,1968
+Avenida,14 JC,123,14 Jc,123,203809,3543907,1970
+Rua,M 5,668,M 5,668,203809,3543907,1971
+,,,Zona Rural,0,204496,2306405,1973
+,,,X 19 De Novembro,658,201973,4313409,1983
+Rua,Plínio Arlindo de Moura,418,Plinio Arlindo De Moura,418,201973,4313409,1984
+Estrada,José Aloísio Daudt,785,Jose Aloisio Dauth,785,201973,4313409,1991
+Rua,Barao De Suassuna,33,Barao De Suassuna,33,203649,2605202,1999
