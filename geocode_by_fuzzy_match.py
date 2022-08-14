@@ -55,10 +55,10 @@ def find_best_match(df, addr, distance_metric):
 
     for idx in range(0, df.shape[0], 1):
         df_street_name = stnd_parse_str(df["street"].iloc[idx])
-        if df_street_name[0] != street_name[0]:
-            continue
-        if not (len(df_street_name) - 5 <= len(street_name) <= len(df_street_name) + 5):
-            continue
+        # if df_street_name[0] != street_name[0]:
+            # continue
+        # if not (len(df_street_name) - 5 <= len(street_name) <= len(df_street_name) + 5):
+            # continue
         cur_jaro_winkler_distance = jaro_winkler(
             (df_street_name), (street_name))
         if cur_jaro_winkler_distance >= distance_metric:
